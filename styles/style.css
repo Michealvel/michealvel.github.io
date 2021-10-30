@@ -1,19 +1,15 @@
 
 
-h1{
-    color: light blue
+
+.home{
+    height: 90vh;
+    background-position: center;
+    background-size:contain ;
+    background-repeat: no-repeat;
+    background-image: url('../images/AMP_8466.jpg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
 
-h2 {
-    color: light blue
-}
-
-
-body{
-    background-color: aqua
-}
-
-
-li {
-    color: orange
-}
